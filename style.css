@@ -11,3 +11,36 @@ header{
     top: 45px;
     left: 10px;
 }
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    color: #808080;
+}
+
+.blue{
+    color: #20A9E5;
+}
+
+article{
+    font-size: 21px;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+thead{
+    color: white;
+    background-color: #4EA0FF;
+}
+
+.cuadro1{
+    background-color: #B0E4F2;
+}
+
+.cuadro2{
+    background-color: #B0E4F2;
+}
