@@ -1,0 +1,13 @@
+header{
+    height: 140px;
+    background-color: #4EA0FF;
+    background-image: url(img/pattern.png);
+    
+}
+
+.logoboolean{
+    width: 300px;
+    position: relative;
+    top: 45px;
+    left: 10px;
+}
